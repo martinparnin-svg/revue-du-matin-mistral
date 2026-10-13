@@ -133,7 +133,13 @@ def mistral(text, cfg, out_path):
     import mistral_api as m
     c = cfg["voice"]["mistral"]
     model = m.tts_model(c.get("model", "auto"))
-    voice = c.get("voice_id") or _mistral_voice.get("id")
+    voice = _mistral_voice.get("id") or c.get("voice_id")
+    if voice and "-" not in voice:  # un nom court (slug) comme fr_marie_excited : on retrouve son identifiant
+        match = [v for v in m.list_voices() if v.get("slug") == voice]
+        if not match:
+            raise TTSError(f"voix Mistral « {voice} » introuvable")
+        _mistral_voice["id"] = voice = match[0]["id"]
+        print(f"Voix : {match[0].get('name')} ({voice})", flush=True)
     if not voice:
         fr = [v for v in m.list_voices() if m.is_french(v)]
         if not fr:

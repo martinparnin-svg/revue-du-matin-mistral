@@ -16,7 +16,7 @@ voice:
 
   mistral:
     model: "auto"            # « auto » : choisit le modèle de synthèse vocale disponible sur le compte
-    voice_id: ""             # à remplir après l'écoute des voix (vide = première voix française trouvée)
+    voice_id: "fr_marie_excited"   # Marie enthousiaste (choix du 13 octobre)
     pause_between_calls_s: 1
 
 audio:
