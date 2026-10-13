@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Revue du matin (Mistral)</title>
+    <link>https://martinparnin-svg.github.io/revue-du-matin-mistral/</link>
+    <description>Banc d'essai : le script de la Revue du matin lu par la voix de Mistral (Voxtral TTS).</description>
+    <language>fr</language>
+    <itunes:author>Revue du matin</itunes:author>
+    <itunes:image href="https://martinparnin-svg.github.io/revue-du-matin-mistral/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Revue du matin · 13 octobre 2026 (Mistral)</title>
+      <description>Washington et Moscou s'entendent sur le diesel ; la rivalité sino-américaine se déplace vers les infrastructures ; le budget 2027 entre en séance ; Meta lance son premier modèle frontière.
+
+Note de veille et sources : https://claude.ai/code/artifact/d2596deb-e3ab-4f0f-b70c-557d5f4343cb</description>
+      <enclosure url="https://martinparnin-svg.github.io/revue-du-matin-mistral/audio/2026-10-13.mp3" length="9133056" type="audio/mpeg"/>
+      <guid isPermaLink="false">revue-du-matin-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 05:30:00 +0000</pubDate>
+      <itunes:duration>12:41</itunes:duration>
+    </item>
+  </channel>
+</rss>

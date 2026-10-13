@@ -1,0 +1,86 @@
+{
+ "date": "2026-10-13",
+ "title": "Revue du matin · 13 octobre 2026 (Mistral)",
+ "summary": "Washington et Moscou s'entendent sur le diesel ; la rivalité sino-américaine se déplace vers les infrastructures ; le budget 2027 entre en séance ; Meta lance son premier modèle frontière.",
+ "links": {
+  "note": "https://claude.ai/code/artifact/d2596deb-e3ab-4f0f-b70c-557d5f4343cb",
+  "page": "https://claude.ai/artifact/AeDRAUgmsQC4gX4vivN44j"
+ },
+ "chapters": [
+  {
+   "title": "Ouverture",
+   "paragraphs": [
+    "Bonjour. Nous sommes le mardi 13 octobre 2026, et voici votre revue du matin : un quart d'heure pour faire le point sur les relations internationales, l'économie, l'industrie et le numérique.",
+    "Au sommaire : l'accord pétrolier conclu entre Washington et Moscou, qui fragilise encore le soutien américain à l'Ukraine. La relation entre les États-Unis et la Chine, plus conflictuelle qu'il n'y paraît. Le budget 2027, qui arrive aujourd'hui dans l'hémicycle de l'Assemblée nationale après un rejet en commission. L'industrie et les matières premières critiques. Et la sortie du premier grand modèle d'intelligence artificielle de Meta. Nous terminerons par l'agenda parlementaire et trois pistes de réflexion pour vos épreuves."
+   ]
+  },
+  {
+   "title": "Washington et Moscou : l'accord sur le diesel",
+   "paragraphs": [
+    "Commençons par l'international, avec une décision qui fait réagir toutes les chancelleries européennes. Samedi, Donald Trump a signé avec la Russie un accord qui permet aux États-Unis d'importer du diesel russe. Selon le vice-Premier ministre russe chargé de l'énergie, les volumes monteraient progressivement : environ trois cent mille tonnes en octobre, cinq cent mille en novembre, puis un million de tonnes en décembre.",
+    "Pourquoi est-ce important ? D'abord sur le plan juridique. Cet accord heurte de front le régime de sanctions construit contre Moscou depuis l'invasion de l'Ukraine en 2022. Plusieurs parlementaires américains, y compris républicains, le jugent illégal. Mais la contestation reste limitée au sein du parti présidentiel.",
+    "Ensuite sur le plan politique. Dans la foulée, Donald Trump a appelé au départ de Volodymyr Zelensky. Le président ukrainien a dénoncé une décision faible, qui selon lui apportera de l'argent supplémentaire à l'effort de guerre russe. Côté français, Emmanuel Macron a fait savoir que rien, dans les faits, ne justifiait de changer la position de la France.",
+    "Interrogé par Public Sénat, le chercheur Romuald Sciora y voit un geste surtout symbolique. L'effet sur les prix à la pompe américains serait faible : ces volumes couvriraient à peine plus d'une journée et demie de consommation des États-Unis. La logique serait d'abord électorale, à l'approche des élections de mi-mandat, face à une base militante sensible au prix du carburant, dans un contexte marqué par la guerre en Iran. Mais le message diplomatique est clair : Washington traite désormais Moscou en partenaire.",
+    "Les conséquences possibles pour Kiev sont concrètes. Les États-Unis pourraient réduire une partie du renseignement partagé avec l'Ukraine. Et si le diesel russe devient un intérêt américain, les frappes ukrainiennes sur les raffineries russes pourraient être perçues à Washington comme hostiles. Pour les Européens, qui condamnent l'accord, le constat est celui d'une influence limitée.",
+    "À noter aussi : le Grand Continent analyse les frappes ukrainiennes contre des centres de données du groupe Yandex, et leur effet possible sur les opérations russes de manipulation de l'information. Les infrastructures numériques sont devenues des cibles militaires à part entière."
+   ]
+  },
+  {
+   "title": "États-Unis et Chine : la rivalité des infrastructures",
+   "paragraphs": [
+    "Restons sur les grandes puissances, avec la relation entre les États-Unis et la Chine. Fin septembre, Xi Jinping s'est rendu à Washington. L'ambiance était cordiale, et le principal résultat concret est la prolongation de la trêve commerciale jusqu'en janvier 2027.",
+    "Mais une analyse publiée hier par le Grand Continent invite à ne pas se fier aux sourires. Rappel des étapes : à la fin de l'été 2025, les droits de douane américains effectifs sur les produits chinois approchaient quarante pour cent. La trêve de Busan, fin octobre 2025, les a ramenés autour de trente pour cent, en échange d'un assouplissement des restrictions chinoises à l'exportation. Pékin a toutefois conservé ses restrictions les plus sévères sur certains métaux et composants stratégiques.",
+    "La rivalité s'est en réalité déplacée vers les infrastructures. Les infrastructures physiques d'abord : face au quasi-monopole chinois sur les terres rares, Washington multiplie les accords miniers, avec l'Australie, le Japon, la Malaisie, la Thaïlande, la République démocratique du Congo ou encore le Maroc. Il soutient aussi ses propres mines par des prises de participation, des stocks stratégiques et des prix planchers.",
+    "Les infrastructures numériques ensuite : les sanctions américaines sur les semi-conducteurs limitent l'accès chinois aux puces avancées, et la Chine a fait de l'autonomie technologique la priorité de son quinzième plan quinquennal, qui couvre les années 2026 à 2030. Enfin, les infrastructures monétaires : d'un côté, la loi américaine qui encourage les stablecoins adossés au dollar ; de l'autre, l'internationalisation du renminbi et le projet de monnaie numérique transfrontalière mBridge, dont l'Arabie saoudite s'est retirée à la mi-septembre.",
+    "Pour l'Europe, un point à retenir : l'Union a rejoint en juin la coalition Pax Silica, lancée par Washington sur les chaînes de valeur technologiques. La question n'est donc plus seulement commerciale. Elle porte sur le contrôle des infrastructures de la mondialisation."
+   ]
+  },
+  {
+   "title": "Budget 2027 : le PLF entre en séance",
+   "paragraphs": [
+    "Passons à l'économie française, avec un rendez-vous majeur aujourd'hui : l'examen en séance publique, à l'Assemblée nationale, de la première partie du projet de loi de finances pour 2027, celle qui porte sur les recettes.",
+    "Les grands équilibres d'abord. Le gouvernement a présenté son budget le premier octobre. Il prévoit un déficit public de 5,4 % du PIB en 2026, ramené à 5 % en 2027. La croissance de cette année a été révisée à 0,5 %, et le gouvernement table sur 1 % l'an prochain, une hypothèse que le Haut Conseil des finances publiques juge optimiste. L'effort de redressement annoncé atteint 54 milliards d'euros, dont 43 milliards de mesures nouvelles. Le taux de prélèvements obligatoires passerait de 43,9 à 44,2 % du PIB.",
+    "Un chiffre à retenir : la charge d'intérêts de la dette passerait d'environ 79 milliards d'euros cette année à plus de 91 milliards en 2027. C'est l'un des postes de dépense qui progressent le plus vite.",
+    "Parmi les mesures en discussion : une revalorisation de 2,1 % du barème de l'impôt sur le revenu, le plafonnement à 3 000 euros de l'abattement de 10 % sur les pensions de retraite, la prolongation de la contribution exceptionnelle sur les grandes entreprises, ou encore la fin de la gratuité des classes préparatoires et des BTS, avec des droits annuels de 270 et 178 euros. Côté dépenses, les armées obtiendraient 6,4 milliards d'euros supplémentaires.",
+    "Le contexte parlementaire est tendu. Vendredi, la commission des finances a rejeté la partie recettes, par 31 voix contre, 3 pour et 2 abstentions ; seul le groupe Ensemble pour la République a voté pour. Les débats en séance doivent durer jusqu'au 19 octobre, avec un vote solennel le 20. Le même jour commencera l'examen du budget de la Sécurité sociale, dont le déficit des régimes de base serait ramené de 21,8 à 12,7 milliards d'euros. Ce matin, d'ailleurs, le ministre de l'Action et des Comptes publics, David Amiel, est auditionné sur ce texte par la commission des affaires sociales du Sénat.",
+    "Sur la dette, une étude relayée par le Grand Continent estime qu'à rythme inchangé, la France pourrait devenir le pays le plus endetté de l'Union européenne au cours des années 2030, devant l'Italie.",
+    "La campagne présidentielle s'invite aussi dans le débat. Bruno Retailleau, candidat des Républicains, a présenté hier un plan de 197 milliards d'euros d'économies sur cinq ans, avec un excédent primaire en 2030 et un déficit sous les 3 % en 2031. Parmi ses mesures : le non-remplacement de 400 000 fonctionnaires partant à la retraite, d'importantes économies sur les retraites et l'assurance chômage, et une règle d'or budgétaire inscrite dans la Constitution par référendum. À comparer avec les objectifs de ses concurrents : 150 milliards d'économies pour Gabriel Attal, 140 milliards d'ici 2032 pour Marine Le Pen, et un déficit ramené à 2 % en cinq ans pour Édouard Philippe.",
+    "Enfin, au plan mondial, le Fonds monétaire international, réuni cette année à Bangkok pour ses assemblées annuelles, a publié ses nouvelles prévisions : 3,1 % de croissance mondiale en 2026, et seulement 1,1 % pour la zone euro."
+   ]
+  },
+  {
+   "title": "Industrie et souveraineté",
+   "paragraphs": [
+    "Un mot sur l'industrie, sous l'angle de la souveraineté. Cet après-midi, l'Assemblée nationale réunit sa mission d'information sur l'avenir de l'industrie terrestre en Europe. La question est au cœur des débats : comment produire plus, plus vite et plus européen, alors que les budgets de défense augmentent sur tout le continent, y compris en France avec les 6,4 milliards supplémentaires prévus pour les armées.",
+    "La question des matières premières critiques, évoquée à propos de la Chine, concerne directement l'industrie française. Batteries, électronique, aéronautique et défense dépendent de métaux dont l'approvisionnement est très concentré.",
+    "Enfin, un ordre de grandeur pour situer la réindustrialisation : selon le baromètre industriel de l'État publié en mars, la France a enregistré en 2025 un solde net de 19 ouvertures d'usines, contre 88 l'année précédente. La dynamique ralentit nettement."
+   ]
+  },
+  {
+   "title": "Tech et IA : Meta entre dans la course",
+   "paragraphs": [
+    "Place au numérique et à l'intelligence artificielle. Meta a dévoilé hier Muse Wonder, son premier modèle dit frontière, c'est-à-dire du niveau des systèmes les plus avancés. Il est issu du laboratoire de superintelligence du groupe, réorganisé en août 2025 sous la direction d'Alexandr Wang. Selon les tests de Meta, qui ne sont pas des évaluations indépendantes, ses performances seraient comparables à celles des meilleurs modèles d'OpenAI et d'Anthropic, avec un point fort revendiqué sur la mémoire de long terme.",
+    "Deux éléments à retenir. Le modèle n'est pas ouvert : il est vendu par l'interface de programmation de Meta, ce qui tranche avec la stratégie de modèles ouverts longtemps défendue par le groupe. Et il a été entraîné dans Prometheus, le nouveau centre de données de Meta dans l'Ohio.",
+    "Ces centres de données sont justement de plus en plus contestés. Aux États-Unis, l'opposition locale à leur construction grandit, et le secteur se demande s'il doit renoncer aux accords de confidentialité qu'il impose aux collectivités pour regagner leur confiance. L'empreinte énergétique et foncière de l'IA devient un enjeu politique local.",
+    "Sur la régulation, deux signaux. Le président de Microsoft a estimé que le Royaume-Uni était le mieux placé pour impulser la régulation de l'IA. Et en Europe, le débat sur le règlement européen, l'AI Act, se poursuit : sur Public Sénat, l'eurodéputé écologiste David Cormand a plaidé pour un contrôle plus strict, en évoquant un risque existentiel pour la démocratie. Aux États-Unis, enfin, la promotion par Donald Trump de la superintelligence comme horizon national peine à convaincre, selon le Grand Continent."
+   ]
+  },
+  {
+   "title": "Agenda politique et parlementaire",
+   "paragraphs": [
+    "Quelques éléments de vie politique et institutionnelle. À gauche, Raphaël Glucksmann a remporté dès le premier tour la primaire du Parti socialiste, avec environ deux tiers des voix. Il lui reste à rassembler au-delà de son camp.",
+    "Au Sénat, la ministre de la Décentralisation, Françoise Gatel, est auditionnée ce matin sur le projet de loi constitutionnelle pour une Corse autonome. Rappelons qu'une révision constitutionnelle suppose un vote en termes identiques par les deux assemblées. À 17 heures, le ministre de l'Intérieur, Laurent Nuñez, sera entendu sur l'avenir du maintien de l'ordre, après les mobilisations lycéennes et les gardes à vue de mineurs qui ont suscité un débat juridique. Et en séance, le Sénat examine la proposition de loi de Laurent Lafon sur la modernisation de la radio."
+   ]
+  },
+  {
+   "title": "Trois pistes pour les épreuves",
+   "paragraphs": [
+    "Pour terminer, trois pistes de réflexion pour vos épreuves.",
+    "Première piste : l'efficacité des sanctions internationales. Que vaut un régime de sanctions quand l'un de ses principaux promoteurs s'en affranchit ? Pensez à l'extraterritorialité du droit américain, et à la capacité de l'Union européenne à agir seule.",
+    "Deuxième piste : la soutenabilité de la dette. Quand la charge d'intérêts dépasse 90 milliards d'euros, quelles marges reste-t-il pour la défense, la transition écologique ou l'éducation ? Mobilisez la procédure budgétaire, notamment l'article 47 de la Constitution et ses délais d'examen.",
+    "Troisième piste : la souveraineté par les infrastructures. Minerais, puces, centres de données, monnaies numériques : la puissance se mesure de plus en plus au contrôle des réseaux.",
+    "Vous retrouverez les sources et l'agenda complet des auditions dans la fiche écrite. Bonne journée, et bonnes révisions."
+   ]
+  }
+ ]
+}
