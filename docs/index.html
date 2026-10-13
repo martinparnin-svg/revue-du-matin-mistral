@@ -1,0 +1,15 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Revue du matin (Mistral)</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 640px; margin: 2rem auto; padding: 0 16px; line-height: 1.55; color: #16202B; background: #F3F5F8; }
+  code { background: #E2E9F8; padding: 2px 6px; border-radius: 4px; word-break: break-all; }
+  img { width: 160px; border-radius: 12px; }
+</style>
+<img src="cover.png" alt="Pochette de la Revue du matin">
+<h1>Revue du matin · banc d’essai Mistral</h1>
+<p>Pour s'abonner dans AntennaPod : bouton « + », puis « Ajouter un podcast par son adresse », et collez l'adresse du flux :</p>
+<p><code id="feed"></code></p>
+<p><a href="samples/">Écouter les voix françaises de Mistral</a></p>
+<script>document.getElementById('feed').textContent = new URL('feed.xml', location.href).href;</script>

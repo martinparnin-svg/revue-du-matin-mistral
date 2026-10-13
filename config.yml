@@ -1,0 +1,26 @@
+# Réglages de la Revue du matin — banc d'essai Mistral
+# Même script que l'édition Gemini, lu par la voix de Mistral (Voxtral TTS).
+
+show:
+  title: "Revue du matin (Mistral)"
+  author: "Revue du matin"
+  description: "Banc d'essai : le script de la Revue du matin lu par la voix de Mistral (Voxtral TTS)."
+  language: "fr"
+  base_url: "https://martinparnin-svg.github.io/revue-du-matin-mistral"
+  keep_episodes: 30
+  # Dépôt principal d'où vient le script du jour
+  source_repo: "martinparnin-svg/revue-du-matin"
+
+voice:
+  provider: mistral
+
+  mistral:
+    model: "auto"            # « auto » : choisit le modèle de synthèse vocale disponible sur le compte
+    voice_id: ""             # à remplir après l'écoute des voix (vide = première voix française trouvée)
+    pause_between_calls_s: 1
+
+audio:
+  pause_between_paragraphs_ms: 450
+  pause_after_chapter_title_ms: 300
+  target_lufs: -16
+  bitrate: "96k"
