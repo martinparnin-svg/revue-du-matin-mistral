@@ -1,0 +1,96 @@
+{
+ "model": "voxtral-mini-tts-latest",
+ "voices": [
+  {
+   "id": "4adeb2c6-25a3-44bc-8100-5234dfc1193b",
+   "name": "Marie - Sad",
+   "slug": "fr_marie_sad",
+   "gender": "female",
+   "languages": [
+    "fr_fr"
+   ],
+   "tags": [
+    "muted",
+    "heavy",
+    "sad"
+   ],
+   "file": "fr_marie_sad.mp3"
+  },
+  {
+   "id": "5a271406-039d-46fe-835b-fbbb00eaf08d",
+   "name": "Marie - Neutral",
+   "slug": "fr_marie_neutral",
+   "gender": "female",
+   "languages": [
+    "fr_fr"
+   ],
+   "tags": [
+    "composed",
+    "steady",
+    "neutral"
+   ],
+   "file": "fr_marie_neutral.mp3"
+  },
+  {
+   "id": "49d024dd-981b-4462-bb17-74d381eb8fd7",
+   "name": "Marie - Happy",
+   "slug": "fr_marie_happy",
+   "gender": "female",
+   "languages": [
+    "fr_fr"
+   ],
+   "tags": [
+    "warm",
+    "radiant",
+    "happy"
+   ],
+   "file": "fr_marie_happy.mp3"
+  },
+  {
+   "id": "2f62b1af-aea3-4079-9d10-7ca665ee7243",
+   "name": "Marie - Excited",
+   "slug": "fr_marie_excited",
+   "gender": "female",
+   "languages": [
+    "fr_fr"
+   ],
+   "tags": [
+    "vibrant",
+    "bubbly",
+    "excited"
+   ],
+   "file": "fr_marie_excited.mp3"
+  },
+  {
+   "id": "e0580ce5-e63c-4cbe-88c8-a983b80c5f1f",
+   "name": "Marie - Curious",
+   "slug": "fr_marie_curious",
+   "gender": "female",
+   "languages": [
+    "fr_fr"
+   ],
+   "tags": [
+    "bright",
+    "probing",
+    "curious"
+   ],
+   "file": "fr_marie_curious.mp3"
+  },
+  {
+   "id": "a7c07cdc-1c35-4d87-a938-c610a654f600",
+   "name": "Marie - Angry",
+   "slug": "fr_marie_angry",
+   "gender": "female",
+   "languages": [
+    "fr_fr"
+   ],
+   "tags": [
+    "fierce",
+    "sharp",
+    "angry"
+   ],
+   "file": "fr_marie_angry.mp3"
+  }
+ ],
+ "errors": []
+}
