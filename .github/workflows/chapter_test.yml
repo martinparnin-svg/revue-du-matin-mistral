@@ -1,0 +1,43 @@
+name: Extrait de test (un chapitre, plusieurs voix)
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date du script (AAAA-MM-JJ)"
+        required: true
+        default: "2026-10-13"
+      chapter:
+        description: "Numéro du chapitre (0 = ouverture)"
+        required: true
+        default: "1"
+      voices:
+        description: "Voix (slugs séparés par des virgules)"
+        required: true
+        default: "fr_marie_happy,fr_marie_curious"
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q requests pyyaml
+      - env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+        run: python scripts/chapter_test.py "${{ github.event.inputs.date }}" "${{ github.event.inputs.chapter }}" "${{ github.event.inputs.voices }}"
+      - run: |
+          git config user.name "revue-du-matin-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/samples
+          git commit -m "Extrait de test" || exit 0
+          git pull --rebase
+          git push
