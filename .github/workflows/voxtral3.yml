@@ -1,0 +1,31 @@
+name: Essai Voxtral 3
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  samples:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q requests pyyaml
+      - env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+        run: python scripts/test_voxtral3.py
+      - if: always()
+        run: |
+          git config user.name "revue-du-matin-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/samples || true
+          git commit -m "Essai Voxtral 3" || exit 0
+          git pull --rebase
+          git push
