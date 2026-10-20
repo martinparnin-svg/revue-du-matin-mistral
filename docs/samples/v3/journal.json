@@ -1,0 +1,87 @@
+[
+ {
+  "fichier": "voix-camille.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "voix-lea.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "voix-manon.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "voix-marie.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "ancienne-marie-enthousiaste.mp3",
+  "modele": "voxtral-mini-tts-2603",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-camille-neutre.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-camille-grave.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-camille-enlevee.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-lea-neutre.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-lea-grave.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-lea-enlevee.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-manon-neutre.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-manon-grave.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-manon-enlevee.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-marie-neutre.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-marie-grave.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ },
+ {
+  "fichier": "emotion-marie-enlevee.mp3",
+  "modele": "voxtral-mini-tts-3",
+  "ok": true
+ }
+]
