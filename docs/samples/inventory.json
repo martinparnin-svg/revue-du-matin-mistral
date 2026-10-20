@@ -4,17 +4,155 @@
   "voxtral-mini-latest",
   "voxtral-mini-realtime-2602",
   "voxtral-mini-realtime-latest",
+  "voxtral-mini-transcribe-3",
+  "voxtral-mini-transcribe-3-0",
   "voxtral-mini-transcribe-realtime-2602",
+  "voxtral-mini-transcribe-realtime-3",
+  "voxtral-mini-transcribe-realtime-3-0",
   "voxtral-mini-tts-2603",
+  "voxtral-mini-tts-3",
+  "voxtral-mini-tts-3-0",
   "voxtral-mini-tts-latest",
   "voxtral-small-2507",
-  "voxtral-small-latest"
+  "voxtral-small-latest",
+  "voxtral-small-transcribe-3",
+  "voxtral-small-transcribe-3-0"
  ],
- "v2_preset_count": 30,
- "v2_all_count": 30,
- "v1_preset_count": 30,
- "v1_all_count": 30,
+ "v2_preset_count": 66,
+ "v2_all_count": 66,
+ "v1_preset_count": 66,
+ "v1_all_count": 66,
  "voices": [
+  {
+   "id": "01a0f318-4acd-72ec-8ea3-20176aeedd4b",
+   "name": "Maryam",
+   "slug": "voice_479",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "ar"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a1536e-a45b-71ee-b650-bd4dd27e1558",
+   "name": "Jordi",
+   "slug": "voice_3143",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "ca"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a0f318-4ae8-7446-a3e4-45aa092940b2",
+   "name": "Heidi",
+   "slug": "voice_481",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "de"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a135c4-d8bc-76fa-8d12-6dc69a48abd1",
+   "name": "David",
+   "slug": "voice_1788",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "en_GB"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a14675-dbef-7259-af64-5d6d22bb3d2a",
+   "name": "Fred",
+   "slug": "voice_591",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "en_GB"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a14675-dbde-703e-bddf-b373f6bf3872",
+   "name": "Harriet",
+   "slug": "voice_590",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "en_GB"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a14675-dbff-7093-92e1-1116893dc11d",
+   "name": "Howard",
+   "slug": "voice_3147",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "en_GB"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a14675-dc1f-7473-9675-43fb05d7d230",
+   "name": "Hugo",
+   "slug": "voice_3149",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "en_GB"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a135c4-d8ab-711b-85a5-1b8a75b32785",
+   "name": "Mary",
+   "slug": "voice_1787",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "en_GB"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a135c4-d896-70d9-a498-2db10c5915ff",
+   "name": "Sky",
+   "slug": "voice_1786",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "en_GB"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
   {
    "id": "cbe96cf0-85ec-4a10-accb-0b35c93b6dfd",
    "name": "Jane - Confident",
@@ -288,6 +426,32 @@
    "kind": "ivc"
   },
   {
+   "id": "01a14675-dc30-778a-8d01-b5dead5a522a",
+   "name": "James",
+   "slug": "voice_3150",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "en_us"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a0f6db-3084-701a-b61c-b6b755947e7f",
+   "name": "Margaret",
+   "slug": "voice_447",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "en_us"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
    "id": "cb891218-482c-4392-9878-91e8d999d57a",
    "name": "Paul - Angry",
    "slug": "en_paul_angry",
@@ -424,6 +588,97 @@
    "kind": "ivc"
   },
   {
+   "id": "01a0f318-4b11-7518-8ce9-69abeaf63255",
+   "name": "Rob",
+   "slug": "voice_485",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "en_us"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a0f6db-3095-7682-b70f-6a15ebfba70a",
+   "name": "Sheila",
+   "slug": "voice_478",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "en_us"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a0f318-4afd-77a5-aa5e-f4d741c30187",
+   "name": "Elena",
+   "slug": "voice_483",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "es"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a151d2-8c1f-75cf-8cdf-20f328c00764",
+   "name": "Camille",
+   "slug": "voice_3141",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "fr"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a151d2-8c29-766d-9ca2-30f33707cef6",
+   "name": "Lea",
+   "slug": "voice_589",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "fr"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a151d2-8c33-7781-a14d-bd91dd8426cc",
+   "name": "Manon",
+   "slug": "voice_3137",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "fr"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a1536e-a46c-7101-b6e9-1ebda46309fd",
+   "name": "Marie",
+   "slug": "voice_592",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "fr"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
    "id": "a7c07cdc-1c35-4d87-a938-c610a654f600",
    "name": "Marie - Angry",
    "slug": "fr_marie_angry",
@@ -524,9 +779,248 @@
    ],
    "type": "preset",
    "kind": "ivc"
+  },
+  {
+   "id": "01a1536e-a3fc-7609-a855-a50b47a0a212",
+   "name": "Ananya",
+   "slug": "voice_3139",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "hi"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a155a0-3da4-72d1-90d6-848eddd4765c",
+   "name": "Himanshu",
+   "slug": "voice_3153",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "hi"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a1536e-a449-7544-a7c0-421d055d1904",
+   "name": "Olivia",
+   "slug": "voice_3146",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "hu"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a0f318-4af2-7338-83be-2bdf790ea23f",
+   "name": "Lorenzo",
+   "slug": "voice_482",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "it"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a151d2-8c66-7662-a216-d4c1f38e8642",
+   "name": "Haruto",
+   "slug": "voice_3133",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "ja"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a151d2-8c49-712c-abf1-008300d65ece",
+   "name": "Jin",
+   "slug": "voice_3135",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "ko"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a151d2-8c53-77d1-b2a1-069e3cedd8a7",
+   "name": "Sung",
+   "slug": "voice_3136",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "ko"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a151d2-8c3e-75f8-bfd6-5b5d94275af6",
+   "name": "Lotte",
+   "slug": "voice_3145",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "nl"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a151d2-8c70-769a-888f-eec618bb3cd8",
+   "name": "Lars",
+   "slug": "voice_3134",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "no"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a155a0-3db0-7070-8e1d-2595336ddd1c",
+   "name": "Leon",
+   "slug": "voice_3154",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "pl"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a0f318-4add-723d-8365-38fbfe6863a2",
+   "name": "Gabriela",
+   "slug": "voice_480",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "pt"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a155a0-3dbb-7274-ab31-7fa1ebf35a3e",
+   "name": "Irina",
+   "slug": "voice_3155",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "ro"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a155a0-3d97-72a3-ae7a-bbe491ee6d71",
+   "name": "Tatiana",
+   "slug": "voice_3132",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "ru"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a1536e-a424-76d9-9d93-df1c36788664",
+   "name": "Oran",
+   "slug": "voice_3138",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "tr"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a151d2-8c5c-7143-8055-32aa12d7f306",
+   "name": "Taras",
+   "slug": "voice_3140",
+   "gender": "male",
+   "age": null,
+   "languages": [
+    "uk"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a1536e-a410-719f-aa90-c0dcd5709f72",
+   "name": "Huong",
+   "slug": "voice_3144",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "vi"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
+  },
+  {
+   "id": "01a1536e-a438-76a4-933a-207c2e0cc416",
+   "name": "Mei",
+   "slug": "voice_3142",
+   "gender": "female",
+   "age": null,
+   "languages": [
+    "zh"
+   ],
+   "tags": null,
+   "type": "preset",
+   "kind": "pvc"
   }
  ],
  "by_language": {
+  "ar": [
+   "Maryam"
+  ],
+  "ca": [
+   "Jordi"
+  ],
+  "de": [
+   "Heidi"
+  ],
+  "en_GB": [
+   "David",
+   "Fred",
+   "Harriet",
+   "Howard",
+   "Hugo",
+   "Mary",
+   "Sky"
+  ],
   "en_gb": [
    "Jane - Confident",
    "Jane - Confused",
@@ -546,6 +1040,8 @@
    "Oliver - Sad"
   ],
   "en_us": [
+   "James",
+   "Margaret",
    "Paul - Angry",
    "Paul - Cheerful",
    "Paul - Confident",
@@ -553,7 +1049,18 @@
    "Paul - Frustrated",
    "Paul - Happy",
    "Paul - Neutral",
-   "Paul - Sad"
+   "Paul - Sad",
+   "Rob",
+   "Sheila"
+  ],
+  "es": [
+   "Elena"
+  ],
+  "fr": [
+   "Camille",
+   "Lea",
+   "Manon",
+   "Marie"
   ],
   "fr_fr": [
    "Marie - Angry",
@@ -562,6 +1069,53 @@
    "Marie - Happy",
    "Marie - Neutral",
    "Marie - Sad"
+  ],
+  "hi": [
+   "Ananya",
+   "Himanshu"
+  ],
+  "hu": [
+   "Olivia"
+  ],
+  "it": [
+   "Lorenzo"
+  ],
+  "ja": [
+   "Haruto"
+  ],
+  "ko": [
+   "Jin",
+   "Sung"
+  ],
+  "nl": [
+   "Lotte"
+  ],
+  "no": [
+   "Lars"
+  ],
+  "pl": [
+   "Leon"
+  ],
+  "pt": [
+   "Gabriela"
+  ],
+  "ro": [
+   "Irina"
+  ],
+  "ru": [
+   "Tatiana"
+  ],
+  "tr": [
+   "Oran"
+  ],
+  "uk": [
+   "Taras"
+  ],
+  "vi": [
+   "Huong"
+  ],
+  "zh": [
+   "Mei"
   ]
  },
  "cross_samples": [
@@ -580,14 +1134,6 @@
     "en_gb"
    ],
    "file": "x_gb_oliver_neutral.mp3"
-  },
-  {
-   "name": "Paul - Neutral",
-   "gender": "male",
-   "languages": [
-    "en_us"
-   ],
-   "file": "x_en_paul_neutral.mp3"
   }
  ]
 }
