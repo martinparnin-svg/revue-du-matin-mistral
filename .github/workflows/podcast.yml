@@ -1,12 +1,9 @@
 name: Fabriquer l'épisode (Mistral)
 
 on:
-  schedule:
-    # heures UTC, du lundi au vendredi : 7h40, 8h40 et 9h15 (été) / 6h40, 7h40 et 8h15 (hiver) à Paris.
-    # Chaque passage récupère le script du jour s'il existe et ne fabrique que ce qui manque.
-    - cron: "40 5 * * 1-5"
-    - cron: "40 6 * * 1-5"
-    - cron: "15 7 * * 1-5"
+  # Passages planifiés retirés le 21 novembre 2026 : le dépôt principal (revue-du-matin) lit
+  # désormais lui-même ses épisodes avec Voxtral. Les réactiver ferait payer deux fois la même voix.
+  # Ancien réglage (heures UTC, lundi à vendredi) : "40 5 * * 1-5", "40 6 * * 1-5", "15 7 * * 1-5".
   workflow_dispatch:
     inputs:
       date:
